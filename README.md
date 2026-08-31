@@ -1,5 +1,9 @@
 Entregas de proyecto del curso "Data Science III: NLP & Deep Learning aplicado a Ciencia de Datos" de CoderHouse 2026
 
+Link Collab:
+
+https://colab.research.google.com/drive/1A_0bj0xAEqaHd7BjAoWpG0o4aKpAgWAv
+
 #learning_rate=0.001
 
 #Forward/backward pass:
