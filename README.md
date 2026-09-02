@@ -13,6 +13,5 @@ https://colab.research.google.com/drive/1A_0bj0xAEqaHd7BjAoWpG0o4aKpAgWAv
 #Cálculo de error, gradientes:
 Se utiliza el optimizador ADAM para actualizar gradientes 
   model.compile(optimizer='adam', loss='sparse_categorical_crossentropy', metrics=['accuracy'], learning_rate=0.001)
- 
 
- 
+De acuerdo al gráfico de Pérdida, se observa la correcta disminución a través de las épocas y no se observa overfitting.
